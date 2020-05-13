@@ -19,7 +19,7 @@
   <div class="control">
     <div class="bigbox">
       <!-- FIRST CONTENT BOX STARTS HERE -->
-    
+
 
       <!-- 2ND CONTENT BOX STARTS HERE -->
       <div class="box">
